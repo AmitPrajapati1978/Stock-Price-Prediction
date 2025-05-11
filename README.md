@@ -2,7 +2,6 @@
 
 A machine learning project that uses XGBoost regression to predict stock prices based on technical indicators. This model analyzes historical price data and creates predictions for future stock movements.
 
-![Stock Price Prediction](https://via.placeholder.com/800x400?text=Stock+Price+Prediction+Model)
 
 ## Features
 
